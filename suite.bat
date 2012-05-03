@@ -1,0 +1,1 @@
+java -Xmx512m -classpath BurpSuite.jar;burppython.jar;jython.jar burp.StartBurp

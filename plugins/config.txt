@@ -1,0 +1,3 @@
+#pluginName,state (0 = disable , 1 = active)
+CMSScan,1
+json,1
